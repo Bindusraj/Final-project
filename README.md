@@ -3,6 +3,7 @@
 *A Personalized Career Recommendation, Roadmap, and AI Mentor System*
 
 Prototype link :[https://www.figma.com/proto/h3WawILSkgmaOkUndXT6vG/Untitled?node-id=2-3&p=f&t=FivHJiw5phzvg8Mt-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2]
+
 Design link : [https://www.figma.com/design/h3WawILSkgmaOkUndXT6vG/Career-guidence?node-id=7-365&t=oU3NLdtDEirw097B-0]
 
 ---
